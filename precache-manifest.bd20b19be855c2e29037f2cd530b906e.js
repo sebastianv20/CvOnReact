@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69ba7e36aab687a496002638119176be",
+    "revision": "660d56d7710951e2e12725fdc3665491",
     "url": "/CvOnReact/index.html"
   },
   {
-    "revision": "50d1684b7168204d32be",
+    "revision": "8eb79091e4cc650a23b0",
     "url": "/CvOnReact/static/css/2.ac1ab58b.chunk.css"
   },
   {
-    "revision": "626051ac3ab232ebc0dc",
-    "url": "/CvOnReact/static/css/main.01ee8544.chunk.css"
+    "revision": "c1705481d86dc6cbbdf7",
+    "url": "/CvOnReact/static/css/main.ffd0e036.chunk.css"
   },
   {
-    "revision": "50d1684b7168204d32be",
-    "url": "/CvOnReact/static/js/2.ce6f8d85.chunk.js"
+    "revision": "8eb79091e4cc650a23b0",
+    "url": "/CvOnReact/static/js/2.de1645b6.chunk.js"
   },
   {
     "revision": "4a1691fd44116c5f8c99a494e6966d73",
-    "url": "/CvOnReact/static/js/2.ce6f8d85.chunk.js.LICENSE.txt"
+    "url": "/CvOnReact/static/js/2.de1645b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "626051ac3ab232ebc0dc",
-    "url": "/CvOnReact/static/js/main.74d68a60.chunk.js"
+    "revision": "c1705481d86dc6cbbdf7",
+    "url": "/CvOnReact/static/js/main.83fd3ce4.chunk.js"
   },
   {
     "revision": "b8c25168fc9e8569bc35",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82672221b727211397a4ebd3f1a984b3",
     "url": "/CvOnReact/static/media/about.82672221.jpg"
+  },
+  {
+    "revision": "5c7f46f09fa934d6a6a0d40563409596",
+    "url": "/CvOnReact/static/media/angular.5c7f46f0.png"
   },
   {
     "revision": "ee371d0a1910a6c23746b86544711f54",
@@ -64,8 +68,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CvOnReact/static/media/firmas_TH.787abc98.jpg"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/CvOnReact/static/media/logo.5d5d9eef.svg"
+    "revision": "b724671a46f0ae30d77dd2e2541f55d9",
+    "url": "/CvOnReact/static/media/ionic.b724671a.png"
+  },
+  {
+    "revision": "cf90f834874635c388fbe1a499f0aac4",
+    "url": "/CvOnReact/static/media/php.cf90f834.png"
+  },
+  {
+    "revision": "70f87bba34487dc1c0cb8916d800c63b",
+    "url": "/CvOnReact/static/media/react.70f87bba.png"
+  },
+  {
+    "revision": "8911b2a812489868a3e651a228c23bd1",
+    "url": "/CvOnReact/static/media/redes.8911b2a8.png"
+  },
+  {
+    "revision": "4eff1b613fa4b06e408354f45c30be8b",
+    "url": "/CvOnReact/static/media/soporte.4eff1b61.png"
   },
   {
     "revision": "963bb857cb09160b12b6bc4095e03795",

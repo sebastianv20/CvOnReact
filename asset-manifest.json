@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/CvOnReact/static/css/main.01ee8544.chunk.css",
-    "main.js": "/CvOnReact/static/js/main.74d68a60.chunk.js",
-    "main.js.map": "/CvOnReact/static/js/main.74d68a60.chunk.js.map",
+    "main.css": "/CvOnReact/static/css/main.ffd0e036.chunk.css",
+    "main.js": "/CvOnReact/static/js/main.83fd3ce4.chunk.js",
+    "main.js.map": "/CvOnReact/static/js/main.83fd3ce4.chunk.js.map",
     "runtime-main.js": "/CvOnReact/static/js/runtime-main.88d8c806.js",
     "runtime-main.js.map": "/CvOnReact/static/js/runtime-main.88d8c806.js.map",
     "static/css/2.ac1ab58b.chunk.css": "/CvOnReact/static/css/2.ac1ab58b.chunk.css",
-    "static/js/2.ce6f8d85.chunk.js": "/CvOnReact/static/js/2.ce6f8d85.chunk.js",
-    "static/js/2.ce6f8d85.chunk.js.map": "/CvOnReact/static/js/2.ce6f8d85.chunk.js.map",
+    "static/js/2.de1645b6.chunk.js": "/CvOnReact/static/js/2.de1645b6.chunk.js",
+    "static/js/2.de1645b6.chunk.js.map": "/CvOnReact/static/js/2.de1645b6.chunk.js.map",
     "index.html": "/CvOnReact/index.html",
-    "precache-manifest.0c72a5803806fc9eae554cb7d9137b46.js": "/CvOnReact/precache-manifest.0c72a5803806fc9eae554cb7d9137b46.js",
+    "precache-manifest.bd20b19be855c2e29037f2cd530b906e.js": "/CvOnReact/precache-manifest.bd20b19be855c2e29037f2cd530b906e.js",
     "service-worker.js": "/CvOnReact/service-worker.js",
     "static/css/2.ac1ab58b.chunk.css.map": "/CvOnReact/static/css/2.ac1ab58b.chunk.css.map",
-    "static/css/main.01ee8544.chunk.css.map": "/CvOnReact/static/css/main.01ee8544.chunk.css.map",
-    "static/js/2.ce6f8d85.chunk.js.LICENSE.txt": "/CvOnReact/static/js/2.ce6f8d85.chunk.js.LICENSE.txt",
+    "static/css/main.ffd0e036.chunk.css.map": "/CvOnReact/static/css/main.ffd0e036.chunk.css.map",
+    "static/js/2.de1645b6.chunk.js.LICENSE.txt": "/CvOnReact/static/js/2.de1645b6.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/CvOnReact/static/media/about.82672221.jpg",
+    "static/media/angular.png": "/CvOnReact/static/media/angular.5c7f46f0.png",
     "static/media/encuestas.png": "/CvOnReact/static/media/encuestas.ee371d0a.png",
     "static/media/encuestas1.png": "/CvOnReact/static/media/encuestas1.5f1d6681.png",
     "static/media/encuestas2.png": "/CvOnReact/static/media/encuestas2.de647ffd.png",
@@ -23,15 +24,19 @@
     "static/media/firmas2.JPG": "/CvOnReact/static/media/firmas2.f9aa1a1c.JPG",
     "static/media/firmas2_TH.jpg": "/CvOnReact/static/media/firmas2_TH.826cc1c5.jpg",
     "static/media/firmas_TH.jpg": "/CvOnReact/static/media/firmas_TH.787abc98.jpg",
-    "static/media/logo.svg": "/CvOnReact/static/media/logo.5d5d9eef.svg",
+    "static/media/ionic.png": "/CvOnReact/static/media/ionic.b724671a.png",
+    "static/media/php.png": "/CvOnReact/static/media/php.cf90f834.png",
+    "static/media/react.png": "/CvOnReact/static/media/react.70f87bba.png",
+    "static/media/redes.png": "/CvOnReact/static/media/redes.8911b2a8.png",
+    "static/media/soporte.png": "/CvOnReact/static/media/soporte.4eff1b61.png",
     "static/media/videoconferencia.JPG": "/CvOnReact/static/media/videoconferencia.963bb857.JPG",
     "static/media/videoconferencia_TH.jpg": "/CvOnReact/static/media/videoconferencia_TH.81cd8687.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.88d8c806.js",
     "static/css/2.ac1ab58b.chunk.css",
-    "static/js/2.ce6f8d85.chunk.js",
-    "static/css/main.01ee8544.chunk.css",
-    "static/js/main.74d68a60.chunk.js"
+    "static/js/2.de1645b6.chunk.js",
+    "static/css/main.ffd0e036.chunk.css",
+    "static/js/main.83fd3ce4.chunk.js"
   ]
 }
