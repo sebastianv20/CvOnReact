@@ -13,9 +13,6 @@ const useStyles = makeStyles((theme) => ({
     root: {
       marginTop:"20px",
       width: '100%',
-     //backgroundColor: theme.palette.background.paper,
-
-      //color:"rgb(100,200,200)",
     },
     divider:{
       backgroundColor:"rgba(94, 90, 90,0.8)",
@@ -32,7 +29,6 @@ const useStyles = makeStyles((theme) => ({
     "fontWeight": "900"
 };
   
-
 export default function DividerTitle(props) {
     const classes = useStyles();
 

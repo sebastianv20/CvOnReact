@@ -26,87 +26,86 @@ import videochatTH from '../assets/img/videoconferencia_TH.jpg'
 
 
 const IMAGES =
-[{      
-        src: encuestas,
-        thumbnail: encuestasTH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 174,
-        tags: [{value: "PHP",title: "PHP"},{value: "Laravel",title: "Laravel"},{value: "Blade",title: "Blade"},{value: "Boostrap",title: "Boostrap"}],
-        caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
-},
-{
-        src: encuestas1,
-        thumbnail: encuestas1TH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 212,
-        tags: [{value: "PHP",title: "PHP"},{value: "Laravel",title: "Laravel"},{value: "Blade",title: "Blade"},{value: "Boostrap",title: "Boostrap"}],
-        caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
-},
+        [{
+                src: encuestas,
+                thumbnail: encuestasTH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 174,
+                tags: [{ value: "PHP", title: "PHP" }, { value: "Laravel", title: "Laravel" }, { value: "Blade", title: "Blade" }, { value: "Boostrap", title: "Boostrap" }],
+                caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
+        },
+        {
+                src: encuestas1,
+                thumbnail: encuestas1TH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 212,
+                tags: [{ value: "PHP", title: "PHP" }, { value: "Laravel", title: "Laravel" }, { value: "Blade", title: "Blade" }, { value: "Boostrap", title: "Boostrap" }],
+                caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
+        },
 
-{
-        src: encuestas2,
-        thumbnail: encuestas2TH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 212,
-        tags: [{value: "PHP",title: "PHP"},{value: "Laravel",title: "Laravel"},{value: "Blade",title: "Blade"},{value: "Boostrap",title: "Boostrap"}],
-        caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
-},
+        {
+                src: encuestas2,
+                thumbnail: encuestas2TH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 212,
+                tags: [{ value: "PHP", title: "PHP" }, { value: "Laravel", title: "Laravel" }, { value: "Blade", title: "Blade" }, { value: "Boostrap", title: "Boostrap" }],
+                caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
+        },
 
-{
-        src: encuestas3,
-        thumbnail: encuestas3TH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 212,
-        tags: [{value: "PHP",title: "PHP"},{value: "Laravel",title: "Laravel"},{value: "Blade",title: "Blade"},{value: "Boostrap",title: "Boostrap"}],
-        caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
-},
+        {
+                src: encuestas3,
+                thumbnail: encuestas3TH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 212,
+                tags: [{ value: "PHP", title: "PHP" }, { value: "Laravel", title: "Laravel" }, { value: "Blade", title: "Blade" }, { value: "Boostrap", title: "Boostrap" }],
+                caption: "Plataforma de encuesta de calidad para hotel con envio de sms a los huespedes"
+        },
 
-{
-        src: firmas,
-        thumbnail: firmasTH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 212,
-        tags: [{value: "PHP",title: "PHP"},{value: "Laravel",title: "Laravel"},{value: "Blade",title: "Blade"},{value: "Boostrap",title: "Boostrap"}],
-        caption: "Plataforma para creacion de firmas personalizadas para toda la organización"
-},
+        {
+                src: firmas,
+                thumbnail: firmasTH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 212,
+                tags: [{ value: "PHP", title: "PHP" }, { value: "Laravel", title: "Laravel" }, { value: "Blade", title: "Blade" }, { value: "Boostrap", title: "Boostrap" }],
+                caption: "Plataforma para creacion de firmas personalizadas para toda la organización"
+        },
 
-{
-        src: firmas2,
-        thumbnail: firmas2TH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 212,
-        tags: [{value: "PHP",title: "PHP"},{value: "Laravel",title: "Laravel"},{value: "Blade",title: "Blade"},{value: "Boostrap",title: "Boostrap"}],
-        caption: "Plataforma para creacion de firmas personalizadas para toda la organización"
-},
+        {
+                src: firmas2,
+                thumbnail: firmas2TH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 212,
+                tags: [{ value: "PHP", title: "PHP" }, { value: "Laravel", title: "Laravel" }, { value: "Blade", title: "Blade" }, { value: "Boostrap", title: "Boostrap" }],
+                caption: "Plataforma para creacion de firmas personalizadas para toda la organización"
+        },
 
-{
-        src: videochat,
-        thumbnail: videochatTH,
-        thumbnailWidth: 320,
-        thumbnailHeight: 212,
-        tags: [{value: "Javascript",title: "Javascript"},{value: "ReactJS",title: "ReactJS"},{value: "Jitsi",title: "Jitsi"},{value: "Firebase",title: "Firebase"}],
-        caption: "Plataforma de videoatención"
+        {
+                src: videochat,
+                thumbnail: videochatTH,
+                thumbnailWidth: 320,
+                thumbnailHeight: 212,
+                tags: [{ value: "Javascript", title: "Javascript" }, { value: "ReactJS", title: "ReactJS" }, { value: "Jitsi", title: "Jitsi" }, { value: "Firebase", title: "Firebase" }],
+                caption: "Plataforma de videoatención"
+        }
+
+        ]
+
+
+
+
+export default function Projects() {
+        return (
+                <div>
+                        <section style={{ minHeight: "600px" }} className="colorlib-work" data-section="projects">
+                                <div className="colorlib-narrow-content">
+                                        <div className="row">
+                                                <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                                                </div>
+                                        </div>
+                                        <Gallery images={IMAGES} />
+                                </div>
+                        </section>
+                </div>
+        )
 }
-
-]
-
-
-
-
-export default function Projects(){
-
-    return (
-      <div>
-				<section style={{minHeight:"600px" }} className="colorlib-work" data-section="projects">
-					<div className="colorlib-narrow-content">
-						<div className="row">
-							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							</div>
-						</div>	
-						<Gallery images={IMAGES}/>
-					</div>
-				</section>
-      </div>
-    )
-  }
 

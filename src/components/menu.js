@@ -206,8 +206,6 @@ function Menu(props) {
           </Drawer>
         </Hidden>
       </nav>
-
-
     </div>
   );
 }
