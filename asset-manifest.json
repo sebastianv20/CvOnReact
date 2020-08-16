@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CvOnReact/static/css/main.ffd0e036.chunk.css",
-    "main.js": "/CvOnReact/static/js/main.83fd3ce4.chunk.js",
-    "main.js.map": "/CvOnReact/static/js/main.83fd3ce4.chunk.js.map",
+    "main.js": "/CvOnReact/static/js/main.6464a446.chunk.js",
+    "main.js.map": "/CvOnReact/static/js/main.6464a446.chunk.js.map",
     "runtime-main.js": "/CvOnReact/static/js/runtime-main.88d8c806.js",
     "runtime-main.js.map": "/CvOnReact/static/js/runtime-main.88d8c806.js.map",
     "static/css/2.ac1ab58b.chunk.css": "/CvOnReact/static/css/2.ac1ab58b.chunk.css",
     "static/js/2.de1645b6.chunk.js": "/CvOnReact/static/js/2.de1645b6.chunk.js",
     "static/js/2.de1645b6.chunk.js.map": "/CvOnReact/static/js/2.de1645b6.chunk.js.map",
     "index.html": "/CvOnReact/index.html",
-    "precache-manifest.bd20b19be855c2e29037f2cd530b906e.js": "/CvOnReact/precache-manifest.bd20b19be855c2e29037f2cd530b906e.js",
+    "precache-manifest.a1c8154dee475983de8c2b73478406cf.js": "/CvOnReact/precache-manifest.a1c8154dee475983de8c2b73478406cf.js",
     "service-worker.js": "/CvOnReact/service-worker.js",
     "static/css/2.ac1ab58b.chunk.css.map": "/CvOnReact/static/css/2.ac1ab58b.chunk.css.map",
     "static/css/main.ffd0e036.chunk.css.map": "/CvOnReact/static/css/main.ffd0e036.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/css/2.ac1ab58b.chunk.css",
     "static/js/2.de1645b6.chunk.js",
     "static/css/main.ffd0e036.chunk.css",
-    "static/js/main.83fd3ce4.chunk.js"
+    "static/js/main.6464a446.chunk.js"
   ]
 }

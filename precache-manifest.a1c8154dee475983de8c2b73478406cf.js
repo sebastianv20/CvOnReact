@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "660d56d7710951e2e12725fdc3665491",
+    "revision": "21526aede718bf5ed6d730dc7cb4cc01",
     "url": "/CvOnReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CvOnReact/static/css/2.ac1ab58b.chunk.css"
   },
   {
-    "revision": "c1705481d86dc6cbbdf7",
+    "revision": "dc443f0dede9b5fa56d7",
     "url": "/CvOnReact/static/css/main.ffd0e036.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CvOnReact/static/js/2.de1645b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1705481d86dc6cbbdf7",
-    "url": "/CvOnReact/static/js/main.83fd3ce4.chunk.js"
+    "revision": "dc443f0dede9b5fa56d7",
+    "url": "/CvOnReact/static/js/main.6464a446.chunk.js"
   },
   {
     "revision": "b8c25168fc9e8569bc35",
