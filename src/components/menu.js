@@ -153,7 +153,7 @@ function Menu(props) {
          <ListItemLink href="https://github.com/sebastianv20">
           <ListItem button>
             <ListItemIcon><GitHubIcon /> </ListItemIcon>
-            <ListItemText primary={"GitJub"} />
+            <ListItemText primary={"GitHub"} />
           </ListItem>
          </ListItemLink>
       </List>
