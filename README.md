@@ -1,1 +1,2 @@
-A simple example of a CV using react hooks
+A simple example of a CV using React Hooks and Material UI
+
