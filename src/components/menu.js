@@ -1,19 +1,19 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import PropTypes from 'prop-types';
 import AppBar from '@material-ui/core/AppBar';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Divider from '@material-ui/core/Divider';
 import Drawer from '@material-ui/core/Drawer';
 import Hidden from '@material-ui/core/Hidden';
 import IconButton from '@material-ui/core/IconButton';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
+import GitHubIcon from '@material-ui/icons/GitHub';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 
-import MailIcon from '@material-ui/icons/Mail';
+
 import MenuIcon from '@material-ui/icons/Menu';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
@@ -48,7 +48,6 @@ const useStyles = makeStyles((theme) => ({
     background: "#bdc3c7",  /* fallback for old browsers */
     background: "-webkit-linear-gradient(to right, #2c3e50, #bdc3c7)",  /* Chrome 10-25, Safari 5.1-6 */
     background: "linear-gradient(to right, #2c3e50, #bdc3c7)", /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
     zIndex:"99999 !important",
     
 
@@ -146,8 +145,15 @@ function Menu(props) {
       <List>
       <ListItemLink href="https://www.linkedin.com/in/sebastianv20">
           <ListItem button>
-            <ListItemIcon><InboxIcon /> </ListItemIcon>
+            <ListItemIcon><LinkedInIcon /> </ListItemIcon>
             <ListItemText primary={"Linkedin"} />
+          </ListItem>
+         </ListItemLink>
+
+         <ListItemLink href="https://github.com/sebastianv20">
+          <ListItem button>
+            <ListItemIcon><GitHubIcon /> </ListItemIcon>
+            <ListItemText primary={"GitJub"} />
           </ListItem>
          </ListItemLink>
       </List>

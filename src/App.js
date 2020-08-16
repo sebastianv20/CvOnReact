@@ -1,8 +1,7 @@
 import React from 'react';
 import { BrowserRouter } from "react-router-dom";
-import logo from './logo.svg';
 import './App.css';
-import { makeStyles, useTheme } from '@material-ui/core/styles';
+import { makeStyles} from '@material-ui/core/styles';
 
 import ScrollHandler from "./components/ScrollHandler"; 
 import Menu from './components/menu'
